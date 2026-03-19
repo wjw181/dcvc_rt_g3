@@ -828,7 +828,6 @@ python3 evaluate_paper.py \
   --output_dir paper_results
 
 
-cd /home/serverdn/hdd-0/wjw/dcvc_rt_g2
 
 CUDA_VISIBLE_DEVICES=0,1,2,3,4 torchrun \
   --nproc_per_node=5 \
