@@ -1,0 +1,37 @@
+WAN vs DCVC_RT Comparison Statistics
+============================================================
+
+Test frames: 5
+WAN QP: 37
+DCVC_RT QP: 6
+Target BPP: 0.3946
+
+Average PSNR:
+  WAN:      23.09 dB
+  DCVC_RT:  23.08 dB
+  Diff:     +0.01 dB
+
+Average BPP:
+  WAN:      0.3946
+  DCVC_RT:  0.3981
+  Diff:     -0.0035
+
+Average SSIM:
+  WAN:      0.7660
+  DCVC_RT:  0.5009
+  Diff:     +0.2652
+
+Average MS-SSIM:
+  WAN:      0.8242
+  DCVC_RT:  0.6640
+  Diff:     +0.1602
+
+Average LPIPS (lower is better):
+  WAN:      0.5138
+  DCVC_RT:  0.7944
+  Diff:     -0.2806
+
+Average MSE:
+  WAN:      0.004910
+  DCVC_RT:  0.004926
+  Diff:     -0.000016

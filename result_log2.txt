@@ -1,0 +1,458 @@
+cannot import cuda implementation for inference, fallback to pytorch.
+警告: 以下QP值超出安全范围 [0, 71]，将被跳过: [75, 80]
+将测试以下QP值: [20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70]
+
+================================================================================
+开始多QP测试
+================================================================================
+
+
+================================================================================
+测试 QP = 20
+================================================================================
+
+QP=20 | Frame 01: Weighted PSNR: 39.589 dB | Y: 37.445 | U: 45.491 | V: 46.548 | Bpp: 0.0243
+QP=20 | Frame 02: Weighted PSNR: 39.459 dB | Y: 37.265 | U: 45.532 | V: 46.547 | Bpp: 0.0005
+QP=20 | Frame 03: Weighted PSNR: 39.630 dB | Y: 37.476 | U: 45.585 | V: 46.601 | Bpp: 0.0040
+QP=20 | Frame 04: Weighted PSNR: 39.375 dB | Y: 37.148 | U: 45.555 | V: 46.553 | Bpp: 0.0005
+QP=20 | Frame 05: Weighted PSNR: 39.579 dB | Y: 37.414 | U: 45.560 | V: 46.589 | Bpp: 0.0030
+QP=20 | Frame 06: Weighted PSNR: 39.479 dB | Y: 37.302 | U: 45.572 | V: 46.448 | Bpp: 0.0005
+QP=20 | Frame 07: Weighted PSNR: 39.540 dB | Y: 37.393 | U: 45.550 | V: 46.410 | Bpp: 0.0017
+QP=20 | Frame 08: Weighted PSNR: 39.346 dB | Y: 37.154 | U: 45.506 | V: 46.338 | Bpp: 0.0005
+QP=20 | Frame 09: Weighted PSNR: 39.476 dB | Y: 37.334 | U: 45.474 | V: 46.330 | Bpp: 0.0021
+QP=20 | Frame 10: Weighted PSNR: 39.390 dB | Y: 37.249 | U: 45.410 | V: 46.211 | Bpp: 0.0005
+QP=20 | Frame 11: Weighted PSNR: 39.493 dB | Y: 37.384 | U: 45.385 | V: 46.257 | Bpp: 0.0016
+QP=20 | Frame 12: Weighted PSNR: 39.238 dB | Y: 37.065 | U: 45.303 | V: 46.207 | Bpp: 0.0006
+QP=20 | Frame 13: Weighted PSNR: 39.407 dB | Y: 37.281 | U: 45.309 | V: 46.259 | Bpp: 0.0021
+QP=20 | Frame 14: Weighted PSNR: 39.326 dB | Y: 37.203 | U: 45.194 | V: 46.197 | Bpp: 0.0005
+QP=20 | Frame 15: Weighted PSNR: 39.376 dB | Y: 37.263 | U: 45.213 | V: 46.215 | Bpp: 0.0014
+QP=20 | Frame 16: Weighted PSNR: 39.196 dB | Y: 37.033 | U: 45.159 | V: 46.213 | Bpp: 0.0005
+QP=20 | Frame 17: Weighted PSNR: 39.302 dB | Y: 37.163 | U: 45.228 | V: 46.212 | Bpp: 0.0018
+QP=20 | Frame 18: Weighted PSNR: 39.214 dB | Y: 37.065 | U: 45.169 | V: 46.151 | Bpp: 0.0004
+QP=20 | Frame 19: Weighted PSNR: 39.281 dB | Y: 37.154 | U: 45.179 | V: 46.145 | Bpp: 0.0012
+QP=20 | Frame 20: Weighted PSNR: 39.118 dB | Y: 36.933 | U: 45.164 | V: 46.185 | Bpp: 0.0005
+QP=20 | Frame 21: Weighted PSNR: 39.148 dB | Y: 36.982 | U: 45.131 | V: 46.156 | Bpp: 0.0014
+QP=20 | Frame 22: Weighted PSNR: 39.089 dB | Y: 36.925 | U: 45.076 | V: 46.085 | Bpp: 0.0005
+QP=20 | Frame 23: Weighted PSNR: 39.143 dB | Y: 36.998 | U: 45.070 | V: 46.084 | Bpp: 0.0009
+QP=20 | Frame 24: Weighted PSNR: 38.945 dB | Y: 36.747 | U: 45.020 | V: 46.056 | Bpp: 0.0005
+QP=20 | Frame 25: Weighted PSNR: 39.007 dB | Y: 36.820 | U: 45.030 | V: 46.101 | Bpp: 0.0010
+QP=20 | Frame 26: Weighted PSNR: 38.996 dB | Y: 36.827 | U: 44.961 | V: 46.051 | Bpp: 0.0005
+QP=20 | Frame 27: Weighted PSNR: 38.980 dB | Y: 36.820 | U: 44.966 | V: 45.954 | Bpp: 0.0007
+QP=20 | Frame 28: Weighted PSNR: 38.732 dB | Y: 36.506 | U: 44.881 | V: 45.938 | Bpp: 0.0004
+QP=20 | Frame 29: Weighted PSNR: 38.705 dB | Y: 36.474 | U: 44.886 | V: 45.910 | Bpp: 0.0007
+QP=20 | Frame 30: Weighted PSNR: 38.641 dB | Y: 36.399 | U: 44.838 | V: 45.895 | Bpp: 0.0003
+QP=20 | Frame 31: Weighted PSNR: 38.522 dB | Y: 36.262 | U: 44.816 | V: 45.789 | Bpp: 0.0004
+QP=20 | [Johnny_1280x720_60.yuv] Weighted PSNR: 39.217 dB | Y-PSNR: 37.048 dB | U-PSNR: 45.233 dB | V-PSNR: 46.214 dB | MSE: 0.00064 | Bpp: 0.0018
+
+✓ QP=20 测试完成
+
+================================================================================
+测试 QP = 25
+================================================================================
+
+QP=25 | Frame 01: Weighted PSNR: 40.278 dB | Y: 38.179 | U: 46.158 | V: 46.993 | Bpp: 0.0288
+QP=25 | Frame 02: Weighted PSNR: 40.116 dB | Y: 37.944 | U: 46.119 | V: 47.148 | Bpp: 0.0007
+QP=25 | Frame 03: Weighted PSNR: 40.430 dB | Y: 38.343 | U: 46.201 | V: 47.188 | Bpp: 0.0063
+QP=25 | Frame 04: Weighted PSNR: 40.143 dB | Y: 37.972 | U: 46.188 | V: 47.123 | Bpp: 0.0006
+QP=25 | Frame 05: Weighted PSNR: 40.497 dB | Y: 38.436 | U: 46.189 | V: 47.173 | Bpp: 0.0060
+QP=25 | Frame 06: Weighted PSNR: 40.354 dB | Y: 38.270 | U: 46.194 | V: 47.016 | Bpp: 0.0006
+QP=25 | Frame 07: Weighted PSNR: 40.447 dB | Y: 38.410 | U: 46.147 | V: 46.970 | Bpp: 0.0030
+QP=25 | Frame 08: Weighted PSNR: 40.235 dB | Y: 38.153 | U: 46.077 | V: 46.887 | Bpp: 0.0005
+QP=25 | Frame 09: Weighted PSNR: 40.428 dB | Y: 38.404 | U: 46.089 | V: 46.910 | Bpp: 0.0035
+QP=25 | Frame 10: Weighted PSNR: 40.302 dB | Y: 38.265 | U: 46.009 | V: 46.819 | Bpp: 0.0007
+QP=25 | Frame 11: Weighted PSNR: 40.418 dB | Y: 38.420 | U: 45.977 | V: 46.849 | Bpp: 0.0022
+QP=25 | Frame 12: Weighted PSNR: 40.094 dB | Y: 38.008 | U: 45.915 | V: 46.787 | Bpp: 0.0008
+QP=25 | Frame 13: Weighted PSNR: 40.338 dB | Y: 38.314 | U: 45.930 | V: 46.887 | Bpp: 0.0030
+QP=25 | Frame 14: Weighted PSNR: 40.241 dB | Y: 38.211 | U: 45.809 | V: 46.856 | Bpp: 0.0006
+QP=25 | Frame 15: Weighted PSNR: 40.314 dB | Y: 38.307 | U: 45.864 | V: 46.807 | Bpp: 0.0019
+QP=25 | Frame 16: Weighted PSNR: 40.107 dB | Y: 38.045 | U: 45.777 | V: 46.812 | Bpp: 0.0006
+QP=25 | Frame 17: Weighted PSNR: 40.241 dB | Y: 38.205 | U: 45.872 | V: 46.826 | Bpp: 0.0024
+QP=25 | Frame 18: Weighted PSNR: 40.162 dB | Y: 38.119 | U: 45.791 | V: 46.793 | Bpp: 0.0006
+QP=25 | Frame 19: Weighted PSNR: 40.220 dB | Y: 38.192 | U: 45.809 | V: 46.798 | Bpp: 0.0016
+QP=25 | Frame 20: Weighted PSNR: 40.024 dB | Y: 37.937 | U: 45.783 | V: 46.786 | Bpp: 0.0006
+QP=25 | Frame 21: Weighted PSNR: 40.104 dB | Y: 38.047 | U: 45.755 | V: 46.792 | Bpp: 0.0020
+QP=25 | Frame 22: Weighted PSNR: 40.017 dB | Y: 37.953 | U: 45.688 | V: 46.724 | Bpp: 0.0006
+QP=25 | Frame 23: Weighted PSNR: 40.085 dB | Y: 38.051 | U: 45.675 | V: 46.696 | Bpp: 0.0013
+QP=25 | Frame 24: Weighted PSNR: 39.894 dB | Y: 37.804 | U: 45.624 | V: 46.704 | Bpp: 0.0006
+QP=25 | Frame 25: Weighted PSNR: 39.969 dB | Y: 37.898 | U: 45.630 | V: 46.734 | Bpp: 0.0014
+QP=25 | Frame 26: Weighted PSNR: 39.942 dB | Y: 37.877 | U: 45.572 | V: 46.699 | Bpp: 0.0007
+QP=25 | Frame 27: Weighted PSNR: 39.895 dB | Y: 37.830 | U: 45.567 | V: 46.614 | Bpp: 0.0009
+QP=25 | Frame 28: Weighted PSNR: 39.616 dB | Y: 37.479 | U: 45.479 | V: 46.574 | Bpp: 0.0005
+QP=25 | Frame 29: Weighted PSNR: 39.607 dB | Y: 37.477 | U: 45.494 | V: 46.497 | Bpp: 0.0008
+QP=25 | Frame 30: Weighted PSNR: 39.574 dB | Y: 37.447 | U: 45.432 | V: 46.479 | Bpp: 0.0004
+QP=25 | Frame 31: Weighted PSNR: 39.435 dB | Y: 37.280 | U: 45.395 | V: 46.406 | Bpp: 0.0005
+QP=25 | [Johnny_1280x720_60.yuv] Weighted PSNR: 40.114 dB | Y-PSNR: 38.041 dB | U-PSNR: 45.845 dB | V-PSNR: 46.818 dB | MSE: 0.00051 | Bpp: 0.0024
+
+✓ QP=25 测试完成
+
+================================================================================
+测试 QP = 30
+================================================================================
+
+QP=30 | Frame 01: Weighted PSNR: 41.327 dB | Y: 39.342 | U: 46.834 | V: 47.734 | Bpp: 0.0350
+QP=30 | Frame 02: Weighted PSNR: 41.096 dB | Y: 39.022 | U: 46.806 | V: 47.829 | Bpp: 0.0010
+QP=30 | Frame 03: Weighted PSNR: 41.410 dB | Y: 39.429 | U: 46.864 | V: 47.840 | Bpp: 0.0086
+QP=30 | Frame 04: Weighted PSNR: 41.073 dB | Y: 38.993 | U: 46.879 | V: 47.742 | Bpp: 0.0008
+QP=30 | Frame 05: Weighted PSNR: 41.424 dB | Y: 39.460 | U: 46.847 | V: 47.786 | Bpp: 0.0073
+QP=30 | Frame 06: Weighted PSNR: 41.226 dB | Y: 39.222 | U: 46.841 | V: 47.633 | Bpp: 0.0007
+QP=30 | Frame 07: Weighted PSNR: 41.310 dB | Y: 39.349 | U: 46.768 | V: 47.623 | Bpp: 0.0036
+QP=30 | Frame 08: Weighted PSNR: 41.067 dB | Y: 39.045 | U: 46.723 | V: 47.540 | Bpp: 0.0008
+QP=30 | Frame 09: Weighted PSNR: 41.293 dB | Y: 39.343 | U: 46.725 | V: 47.556 | Bpp: 0.0044
+QP=30 | Frame 10: Weighted PSNR: 41.136 dB | Y: 39.171 | U: 46.637 | V: 47.424 | Bpp: 0.0009
+QP=30 | Frame 11: Weighted PSNR: 41.250 dB | Y: 39.319 | U: 46.609 | V: 47.478 | Bpp: 0.0029
+QP=30 | Frame 12: Weighted PSNR: 40.875 dB | Y: 38.837 | U: 46.551 | V: 47.425 | Bpp: 0.0010
+QP=30 | Frame 13: Weighted PSNR: 41.178 dB | Y: 39.226 | U: 46.570 | V: 47.498 | Bpp: 0.0039
+QP=30 | Frame 14: Weighted PSNR: 41.099 dB | Y: 39.140 | U: 46.477 | V: 47.474 | Bpp: 0.0009
+QP=30 | Frame 15: Weighted PSNR: 41.145 dB | Y: 39.203 | U: 46.503 | V: 47.438 | Bpp: 0.0024
+QP=30 | Frame 16: Weighted PSNR: 40.908 dB | Y: 38.900 | U: 46.430 | V: 47.436 | Bpp: 0.0008
+QP=30 | Frame 17: Weighted PSNR: 41.089 dB | Y: 39.128 | U: 46.531 | V: 47.409 | Bpp: 0.0033
+QP=30 | Frame 18: Weighted PSNR: 41.003 dB | Y: 39.032 | U: 46.460 | V: 47.378 | Bpp: 0.0007
+QP=30 | Frame 19: Weighted PSNR: 41.053 dB | Y: 39.095 | U: 46.482 | V: 47.366 | Bpp: 0.0021
+QP=30 | Frame 20: Weighted PSNR: 40.846 dB | Y: 38.831 | U: 46.441 | V: 47.342 | Bpp: 0.0007
+QP=30 | Frame 21: Weighted PSNR: 40.961 dB | Y: 38.987 | U: 46.409 | V: 47.356 | Bpp: 0.0026
+QP=30 | Frame 22: Weighted PSNR: 40.889 dB | Y: 38.912 | U: 46.341 | V: 47.298 | Bpp: 0.0008
+QP=30 | Frame 23: Weighted PSNR: 40.912 dB | Y: 38.954 | U: 46.309 | V: 47.257 | Bpp: 0.0017
+QP=30 | Frame 24: Weighted PSNR: 40.698 dB | Y: 38.680 | U: 46.236 | V: 47.265 | Bpp: 0.0008
+QP=30 | Frame 25: Weighted PSNR: 40.814 dB | Y: 38.829 | U: 46.258 | V: 47.280 | Bpp: 0.0019
+QP=30 | Frame 26: Weighted PSNR: 40.778 dB | Y: 38.798 | U: 46.190 | V: 47.247 | Bpp: 0.0008
+QP=30 | Frame 27: Weighted PSNR: 40.683 dB | Y: 38.693 | U: 46.140 | V: 47.166 | Bpp: 0.0011
+QP=30 | Frame 28: Weighted PSNR: 40.409 dB | Y: 38.344 | U: 46.050 | V: 47.159 | Bpp: 0.0007
+QP=30 | Frame 29: Weighted PSNR: 40.431 dB | Y: 38.380 | U: 46.089 | V: 47.080 | Bpp: 0.0010
+QP=30 | Frame 30: Weighted PSNR: 40.386 dB | Y: 38.331 | U: 46.031 | V: 47.073 | Bpp: 0.0005
+QP=30 | Frame 31: Weighted PSNR: 40.230 dB | Y: 38.136 | U: 46.031 | V: 46.995 | Bpp: 0.0005
+QP=30 | [Johnny_1280x720_60.yuv] Weighted PSNR: 40.968 dB | Y-PSNR: 38.972 dB | U-PSNR: 46.486 dB | V-PSNR: 47.423 dB | MSE: 0.00043 | Bpp: 0.0030
+
+✓ QP=30 测试完成
+
+================================================================================
+测试 QP = 35
+================================================================================
+
+QP=35 | Frame 01: Weighted PSNR: 42.026 dB | Y: 40.144 | U: 47.317 | V: 48.028 | Bpp: 0.0426
+QP=35 | Frame 02: Weighted PSNR: 41.745 dB | Y: 39.750 | U: 47.227 | V: 48.231 | Bpp: 0.0013
+QP=35 | Frame 03: Weighted PSNR: 42.096 dB | Y: 40.186 | U: 47.368 | V: 48.279 | Bpp: 0.0111
+QP=35 | Frame 04: Weighted PSNR: 41.716 dB | Y: 39.708 | U: 47.293 | V: 48.187 | Bpp: 0.0011
+QP=35 | Frame 05: Weighted PSNR: 42.129 dB | Y: 40.243 | U: 47.299 | V: 48.276 | Bpp: 0.0107
+QP=35 | Frame 06: Weighted PSNR: 41.908 dB | Y: 39.976 | U: 47.285 | V: 48.123 | Bpp: 0.0010
+QP=35 | Frame 07: Weighted PSNR: 42.024 dB | Y: 40.139 | U: 47.236 | V: 48.118 | Bpp: 0.0050
+QP=35 | Frame 08: Weighted PSNR: 41.773 dB | Y: 39.823 | U: 47.162 | V: 48.084 | Bpp: 0.0011
+QP=35 | Frame 09: Weighted PSNR: 42.020 dB | Y: 40.151 | U: 47.169 | V: 48.089 | Bpp: 0.0064
+QP=35 | Frame 10: Weighted PSNR: 41.830 dB | Y: 39.927 | U: 47.096 | V: 47.983 | Bpp: 0.0011
+QP=35 | Frame 11: Weighted PSNR: 41.965 dB | Y: 40.106 | U: 47.075 | V: 48.012 | Bpp: 0.0040
+QP=35 | Frame 12: Weighted PSNR: 41.587 dB | Y: 39.626 | U: 47.026 | V: 47.916 | Bpp: 0.0014
+QP=35 | Frame 13: Weighted PSNR: 41.913 dB | Y: 40.039 | U: 47.074 | V: 47.995 | Bpp: 0.0055
+QP=35 | Frame 14: Weighted PSNR: 41.754 dB | Y: 39.848 | U: 46.966 | V: 47.976 | Bpp: 0.0010
+QP=35 | Frame 15: Weighted PSNR: 41.853 dB | Y: 39.979 | U: 47.008 | V: 47.939 | Bpp: 0.0033
+QP=35 | Frame 16: Weighted PSNR: 41.611 dB | Y: 39.680 | U: 46.879 | V: 47.933 | Bpp: 0.0010
+QP=35 | Frame 17: Weighted PSNR: 41.812 dB | Y: 39.932 | U: 46.998 | V: 47.903 | Bpp: 0.0046
+QP=35 | Frame 18: Weighted PSNR: 41.689 dB | Y: 39.785 | U: 46.925 | V: 47.875 | Bpp: 0.0009
+QP=35 | Frame 19: Weighted PSNR: 41.767 dB | Y: 39.895 | U: 46.924 | V: 47.841 | Bpp: 0.0029
+QP=35 | Frame 20: Weighted PSNR: 41.563 dB | Y: 39.634 | U: 46.878 | V: 47.817 | Bpp: 0.0009
+QP=35 | Frame 21: Weighted PSNR: 41.695 dB | Y: 39.817 | U: 46.828 | V: 47.829 | Bpp: 0.0037
+QP=35 | Frame 22: Weighted PSNR: 41.610 dB | Y: 39.727 | U: 46.752 | V: 47.769 | Bpp: 0.0010
+QP=35 | Frame 23: Weighted PSNR: 41.655 dB | Y: 39.789 | U: 46.749 | V: 47.761 | Bpp: 0.0022
+QP=35 | Frame 24: Weighted PSNR: 41.425 dB | Y: 39.498 | U: 46.682 | V: 47.729 | Bpp: 0.0010
+QP=35 | Frame 25: Weighted PSNR: 41.572 dB | Y: 39.683 | U: 46.702 | V: 47.771 | Bpp: 0.0026
+QP=35 | Frame 26: Weighted PSNR: 41.469 dB | Y: 39.560 | U: 46.634 | V: 47.757 | Bpp: 0.0010
+QP=35 | Frame 27: Weighted PSNR: 41.376 dB | Y: 39.456 | U: 46.626 | V: 47.647 | Bpp: 0.0014
+QP=35 | Frame 28: Weighted PSNR: 41.108 dB | Y: 39.124 | U: 46.516 | V: 47.603 | Bpp: 0.0009
+QP=35 | Frame 29: Weighted PSNR: 41.143 dB | Y: 39.174 | U: 46.531 | V: 47.572 | Bpp: 0.0013
+QP=35 | Frame 30: Weighted PSNR: 41.089 dB | Y: 39.115 | U: 46.488 | V: 47.536 | Bpp: 0.0006
+QP=35 | Frame 31: Weighted PSNR: 40.962 dB | Y: 38.962 | U: 46.472 | V: 47.455 | Bpp: 0.0007
+QP=35 | [Johnny_1280x720_60.yuv] Weighted PSNR: 41.674 dB | Y-PSNR: 39.757 dB | U-PSNR: 46.941 dB | V-PSNR: 47.904 dB | MSE: 0.00036 | Bpp: 0.0040
+
+✓ QP=35 测试完成
+
+================================================================================
+测试 QP = 40
+================================================================================
+
+QP=40 | Frame 01: Weighted PSNR: 42.668 dB | Y: 40.836 | U: 47.773 | V: 48.554 | Bpp: 0.0512
+QP=40 | Frame 02: Weighted PSNR: 42.313 dB | Y: 40.362 | U: 47.726 | V: 48.606 | Bpp: 0.0016
+QP=40 | Frame 03: Weighted PSNR: 42.678 dB | Y: 40.826 | U: 47.835 | V: 48.633 | Bpp: 0.0146
+QP=40 | Frame 04: Weighted PSNR: 42.272 dB | Y: 40.307 | U: 47.770 | V: 48.568 | Bpp: 0.0015
+QP=40 | Frame 05: Weighted PSNR: 42.761 dB | Y: 40.946 | U: 47.768 | V: 48.642 | Bpp: 0.0168
+QP=40 | Frame 06: Weighted PSNR: 42.486 dB | Y: 40.596 | U: 47.774 | V: 48.541 | Bpp: 0.0015
+QP=40 | Frame 07: Weighted PSNR: 42.651 dB | Y: 40.820 | U: 47.732 | V: 48.552 | Bpp: 0.0078
+QP=40 | Frame 08: Weighted PSNR: 42.355 dB | Y: 40.452 | U: 47.678 | V: 48.456 | Bpp: 0.0014
+QP=40 | Frame 09: Weighted PSNR: 42.657 dB | Y: 40.851 | U: 47.679 | V: 48.475 | Bpp: 0.0101
+QP=40 | Frame 10: Weighted PSNR: 42.411 dB | Y: 40.555 | U: 47.589 | V: 48.366 | Bpp: 0.0016
+QP=40 | Frame 11: Weighted PSNR: 42.585 dB | Y: 40.777 | U: 47.591 | V: 48.426 | Bpp: 0.0059
+QP=40 | Frame 12: Weighted PSNR: 42.170 dB | Y: 40.251 | U: 47.547 | V: 48.309 | Bpp: 0.0017
+QP=40 | Frame 13: Weighted PSNR: 42.533 dB | Y: 40.709 | U: 47.589 | V: 48.424 | Bpp: 0.0087
+QP=40 | Frame 14: Weighted PSNR: 42.348 dB | Y: 40.493 | U: 47.449 | V: 48.377 | Bpp: 0.0014
+QP=40 | Frame 15: Weighted PSNR: 42.472 dB | Y: 40.649 | U: 47.520 | V: 48.363 | Bpp: 0.0049
+QP=40 | Frame 16: Weighted PSNR: 42.250 dB | Y: 40.375 | U: 47.410 | V: 48.342 | Bpp: 0.0013
+QP=40 | Frame 17: Weighted PSNR: 42.474 dB | Y: 40.650 | U: 47.534 | V: 48.357 | Bpp: 0.0069
+QP=40 | Frame 18: Weighted PSNR: 42.324 dB | Y: 40.475 | U: 47.446 | V: 48.300 | Bpp: 0.0012
+QP=40 | Frame 19: Weighted PSNR: 42.447 dB | Y: 40.632 | U: 47.480 | V: 48.308 | Bpp: 0.0042
+QP=40 | Frame 20: Weighted PSNR: 42.224 dB | Y: 40.353 | U: 47.414 | V: 48.257 | Bpp: 0.0011
+QP=40 | Frame 21: Weighted PSNR: 42.367 dB | Y: 40.549 | U: 47.373 | V: 48.271 | Bpp: 0.0053
+QP=40 | Frame 22: Weighted PSNR: 42.258 dB | Y: 40.422 | U: 47.330 | V: 48.200 | Bpp: 0.0013
+QP=40 | Frame 23: Weighted PSNR: 42.329 dB | Y: 40.530 | U: 47.277 | V: 48.177 | Bpp: 0.0029
+QP=40 | Frame 24: Weighted PSNR: 42.105 dB | Y: 40.249 | U: 47.219 | V: 48.126 | Bpp: 0.0012
+QP=40 | Frame 25: Weighted PSNR: 42.253 dB | Y: 40.440 | U: 47.215 | V: 48.168 | Bpp: 0.0035
+QP=40 | Frame 26: Weighted PSNR: 42.082 dB | Y: 40.229 | U: 47.139 | V: 48.139 | Bpp: 0.0013
+QP=40 | Frame 27: Weighted PSNR: 42.060 dB | Y: 40.223 | U: 47.114 | V: 48.027 | Bpp: 0.0021
+QP=40 | Frame 28: Weighted PSNR: 41.809 dB | Y: 39.908 | U: 47.018 | V: 48.003 | Bpp: 0.0010
+QP=40 | Frame 29: Weighted PSNR: 41.831 dB | Y: 39.950 | U: 47.018 | V: 47.927 | Bpp: 0.0017
+QP=40 | Frame 30: Weighted PSNR: 41.740 dB | Y: 39.838 | U: 46.983 | V: 47.911 | Bpp: 0.0009
+QP=40 | Frame 31: Weighted PSNR: 41.647 dB | Y: 39.734 | U: 46.958 | V: 47.816 | Bpp: 0.0009
+QP=40 | [Johnny_1280x720_60.yuv] Weighted PSNR: 42.308 dB | Y-PSNR: 40.451 dB | U-PSNR: 47.450 dB | V-PSNR: 48.310 dB | MSE: 0.00030 | Bpp: 0.0054
+
+✓ QP=40 测试完成
+
+================================================================================
+测试 QP = 45
+================================================================================
+
+QP=45 | Frame 01: Weighted PSNR: 43.206 dB | Y: 41.444 | U: 48.045 | V: 48.945 | Bpp: 0.0594
+QP=45 | Frame 02: Weighted PSNR: 42.788 dB | Y: 40.895 | U: 47.970 | V: 48.963 | Bpp: 0.0024
+QP=45 | Frame 03: Weighted PSNR: 43.192 dB | Y: 41.402 | U: 48.123 | V: 48.999 | Bpp: 0.0181
+QP=45 | Frame 04: Weighted PSNR: 42.769 dB | Y: 40.856 | U: 48.060 | V: 48.951 | Bpp: 0.0022
+QP=45 | Frame 05: Weighted PSNR: 43.297 dB | Y: 41.541 | U: 48.093 | V: 49.035 | Bpp: 0.0222
+QP=45 | Frame 06: Weighted PSNR: 42.960 dB | Y: 41.113 | U: 48.089 | V: 48.913 | Bpp: 0.0019
+QP=45 | Frame 07: Weighted PSNR: 43.191 dB | Y: 41.429 | U: 48.054 | V: 48.904 | Bpp: 0.0124
+QP=45 | Frame 08: Weighted PSNR: 42.867 dB | Y: 41.009 | U: 48.038 | V: 48.848 | Bpp: 0.0021
+QP=45 | Frame 09: Weighted PSNR: 43.207 dB | Y: 41.458 | U: 48.047 | V: 48.862 | Bpp: 0.0158
+QP=45 | Frame 10: Weighted PSNR: 42.881 dB | Y: 41.052 | U: 47.971 | V: 48.770 | Bpp: 0.0021
+QP=45 | Frame 11: Weighted PSNR: 43.150 dB | Y: 41.401 | U: 47.967 | V: 48.824 | Bpp: 0.0091
+QP=45 | Frame 12: Weighted PSNR: 42.706 dB | Y: 40.842 | U: 47.906 | V: 48.686 | Bpp: 0.0023
+QP=45 | Frame 13: Weighted PSNR: 43.086 dB | Y: 41.324 | U: 47.974 | V: 48.766 | Bpp: 0.0131
+QP=45 | Frame 14: Weighted PSNR: 42.820 dB | Y: 40.996 | U: 47.839 | V: 48.749 | Bpp: 0.0021
+QP=45 | Frame 15: Weighted PSNR: 43.029 dB | Y: 41.259 | U: 47.928 | V: 48.752 | Bpp: 0.0079
+QP=45 | Frame 16: Weighted PSNR: 42.751 dB | Y: 40.912 | U: 47.822 | V: 48.714 | Bpp: 0.0018
+QP=45 | Frame 17: Weighted PSNR: 43.055 dB | Y: 41.298 | U: 47.916 | V: 48.736 | Bpp: 0.0105
+QP=45 | Frame 18: Weighted PSNR: 42.811 dB | Y: 41.000 | U: 47.810 | V: 48.675 | Bpp: 0.0014
+QP=45 | Frame 19: Weighted PSNR: 43.005 dB | Y: 41.254 | U: 47.862 | V: 48.654 | Bpp: 0.0064
+QP=45 | Frame 20: Weighted PSNR: 42.775 dB | Y: 40.967 | U: 47.782 | V: 48.622 | Bpp: 0.0017
+QP=45 | Frame 21: Weighted PSNR: 42.957 dB | Y: 41.204 | U: 47.791 | V: 48.639 | Bpp: 0.0081
+QP=45 | Frame 22: Weighted PSNR: 42.803 dB | Y: 41.019 | U: 47.704 | V: 48.605 | Bpp: 0.0017
+QP=45 | Frame 23: Weighted PSNR: 42.904 dB | Y: 41.166 | U: 47.689 | V: 48.549 | Bpp: 0.0044
+QP=45 | Frame 24: Weighted PSNR: 42.655 dB | Y: 40.854 | U: 47.614 | V: 48.504 | Bpp: 0.0016
+QP=45 | Frame 25: Weighted PSNR: 42.824 dB | Y: 41.068 | U: 47.622 | V: 48.561 | Bpp: 0.0049
+QP=45 | Frame 26: Weighted PSNR: 42.640 dB | Y: 40.846 | U: 47.503 | V: 48.537 | Bpp: 0.0016
+QP=45 | Frame 27: Weighted PSNR: 42.667 dB | Y: 40.898 | U: 47.514 | V: 48.437 | Bpp: 0.0028
+QP=45 | Frame 28: Weighted PSNR: 42.397 dB | Y: 40.562 | U: 47.410 | V: 48.394 | Bpp: 0.0014
+QP=45 | Frame 29: Weighted PSNR: 42.430 dB | Y: 40.618 | U: 47.412 | V: 48.326 | Bpp: 0.0025
+QP=45 | Frame 30: Weighted PSNR: 42.311 dB | Y: 40.472 | U: 47.357 | V: 48.300 | Bpp: 0.0010
+QP=45 | Frame 31: Weighted PSNR: 42.254 dB | Y: 40.411 | U: 47.348 | V: 48.213 | Bpp: 0.0011
+QP=45 | [Johnny_1280x720_60.yuv] Weighted PSNR: 42.851 dB | Y-PSNR: 41.051 dB | U-PSNR: 47.815 dB | V-PSNR: 48.691 dB | MSE: 0.00026 | Bpp: 0.0073
+
+✓ QP=45 测试完成
+
+================================================================================
+测试 QP = 50
+================================================================================
+
+QP=50 | Frame 01: Weighted PSNR: 43.741 dB | Y: 42.031 | U: 48.481 | V: 49.259 | Bpp: 0.0705
+QP=50 | Frame 02: Weighted PSNR: 43.264 dB | Y: 41.398 | U: 48.409 | V: 49.320 | Bpp: 0.0034
+QP=50 | Frame 03: Weighted PSNR: 43.729 dB | Y: 41.990 | U: 48.547 | V: 49.342 | Bpp: 0.0244
+QP=50 | Frame 04: Weighted PSNR: 43.225 dB | Y: 41.347 | U: 48.445 | V: 49.277 | Bpp: 0.0035
+QP=50 | Frame 05: Weighted PSNR: 43.838 dB | Y: 42.144 | U: 48.464 | V: 49.377 | Bpp: 0.0310
+QP=50 | Frame 06: Weighted PSNR: 43.409 dB | Y: 41.591 | U: 48.472 | V: 49.255 | Bpp: 0.0027
+QP=50 | Frame 07: Weighted PSNR: 43.716 dB | Y: 42.006 | U: 48.424 | V: 49.266 | Bpp: 0.0177
+QP=50 | Frame 08: Weighted PSNR: 43.347 dB | Y: 41.529 | U: 48.384 | V: 49.223 | Bpp: 0.0032
+QP=50 | Frame 09: Weighted PSNR: 43.785 dB | Y: 42.095 | U: 48.439 | V: 49.276 | Bpp: 0.0259
+QP=50 | Frame 10: Weighted PSNR: 43.362 dB | Y: 41.558 | U: 48.336 | V: 49.216 | Bpp: 0.0032
+QP=50 | Frame 11: Weighted PSNR: 43.705 dB | Y: 42.010 | U: 48.353 | V: 49.228 | Bpp: 0.0149
+QP=50 | Frame 12: Weighted PSNR: 43.204 dB | Y: 41.369 | U: 48.292 | V: 49.124 | Bpp: 0.0037
+QP=50 | Frame 13: Weighted PSNR: 43.680 dB | Y: 41.974 | U: 48.365 | V: 49.230 | Bpp: 0.0214
+QP=50 | Frame 14: Weighted PSNR: 43.297 dB | Y: 41.487 | U: 48.242 | V: 49.211 | Bpp: 0.0028
+QP=50 | Frame 15: Weighted PSNR: 43.589 dB | Y: 41.861 | U: 48.316 | V: 49.231 | Bpp: 0.0133
+QP=50 | Frame 16: Weighted PSNR: 43.275 dB | Y: 41.471 | U: 48.181 | V: 49.188 | Bpp: 0.0027
+QP=50 | Frame 17: Weighted PSNR: 43.645 dB | Y: 41.939 | U: 48.309 | V: 49.218 | Bpp: 0.0177
+QP=50 | Frame 18: Weighted PSNR: 43.337 dB | Y: 41.555 | U: 48.232 | V: 49.137 | Bpp: 0.0023
+QP=50 | Frame 19: Weighted PSNR: 43.587 dB | Y: 41.886 | U: 48.253 | V: 49.132 | Bpp: 0.0107
+QP=50 | Frame 20: Weighted PSNR: 43.297 dB | Y: 41.514 | U: 48.196 | V: 49.093 | Bpp: 0.0024
+QP=50 | Frame 21: Weighted PSNR: 43.552 dB | Y: 41.847 | U: 48.205 | V: 49.123 | Bpp: 0.0141
+QP=50 | Frame 22: Weighted PSNR: 43.339 dB | Y: 41.578 | U: 48.144 | V: 49.102 | Bpp: 0.0022
+QP=50 | Frame 23: Weighted PSNR: 43.480 dB | Y: 41.786 | U: 48.096 | V: 49.028 | Bpp: 0.0071
+QP=50 | Frame 24: Weighted PSNR: 43.206 dB | Y: 41.435 | U: 48.037 | V: 48.997 | Bpp: 0.0020
+QP=50 | Frame 25: Weighted PSNR: 43.401 dB | Y: 41.686 | U: 48.035 | V: 49.058 | Bpp: 0.0070
+QP=50 | Frame 26: Weighted PSNR: 43.163 dB | Y: 41.389 | U: 47.951 | V: 49.023 | Bpp: 0.0020
+QP=50 | Frame 27: Weighted PSNR: 43.235 dB | Y: 41.506 | U: 47.927 | V: 48.921 | Bpp: 0.0039
+QP=50 | Frame 28: Weighted PSNR: 42.963 dB | Y: 41.163 | U: 47.845 | V: 48.882 | Bpp: 0.0018
+QP=50 | Frame 29: Weighted PSNR: 43.024 dB | Y: 41.253 | U: 47.830 | V: 48.839 | Bpp: 0.0033
+QP=50 | Frame 30: Weighted PSNR: 42.887 dB | Y: 41.087 | U: 47.779 | V: 48.796 | Bpp: 0.0014
+QP=50 | Frame 31: Weighted PSNR: 42.864 dB | Y: 41.073 | U: 47.736 | V: 48.739 | Bpp: 0.0015
+QP=50 | [Johnny_1280x720_60.yuv] Weighted PSNR: 43.392 dB | Y-PSNR: 41.631 dB | U-PSNR: 48.217 dB | V-PSNR: 49.133 dB | MSE: 0.00023 | Bpp: 0.0104
+
+✓ QP=50 测试完成
+
+================================================================================
+测试 QP = 55
+================================================================================
+
+QP=55 | Frame 01: Weighted PSNR: 44.226 dB | Y: 42.564 | U: 48.813 | V: 49.610 | Bpp: 0.0806
+QP=55 | Frame 02: Weighted PSNR: 43.644 dB | Y: 41.818 | U: 48.681 | V: 49.562 | Bpp: 0.0047
+QP=55 | Frame 03: Weighted PSNR: 44.161 dB | Y: 42.486 | U: 48.783 | V: 49.593 | Bpp: 0.0310
+QP=55 | Frame 04: Weighted PSNR: 43.632 dB | Y: 41.794 | U: 48.741 | V: 49.552 | Bpp: 0.0053
+QP=55 | Frame 05: Weighted PSNR: 44.277 dB | Y: 42.635 | U: 48.737 | V: 49.669 | Bpp: 0.0405
+QP=55 | Frame 06: Weighted PSNR: 43.792 dB | Y: 42.002 | U: 48.750 | V: 49.578 | Bpp: 0.0042
+QP=55 | Frame 07: Weighted PSNR: 44.169 dB | Y: 42.507 | U: 48.717 | V: 49.587 | Bpp: 0.0258
+QP=55 | Frame 08: Weighted PSNR: 43.730 dB | Y: 41.936 | U: 48.681 | V: 49.543 | Bpp: 0.0051
+QP=55 | Frame 09: Weighted PSNR: 44.246 dB | Y: 42.610 | U: 48.710 | V: 49.598 | Bpp: 0.0381
+QP=55 | Frame 10: Weighted PSNR: 43.720 dB | Y: 41.929 | U: 48.643 | V: 49.537 | Bpp: 0.0047
+QP=55 | Frame 11: Weighted PSNR: 44.126 dB | Y: 42.470 | U: 48.620 | V: 49.570 | Bpp: 0.0220
+QP=55 | Frame 12: Weighted PSNR: 43.598 dB | Y: 41.791 | U: 48.594 | V: 49.443 | Bpp: 0.0057
+QP=55 | Frame 13: Weighted PSNR: 44.126 dB | Y: 42.462 | U: 48.649 | V: 49.584 | Bpp: 0.0326
+QP=55 | Frame 14: Weighted PSNR: 43.669 dB | Y: 41.873 | U: 48.541 | V: 49.572 | Bpp: 0.0047
+QP=55 | Frame 15: Weighted PSNR: 44.035 dB | Y: 42.346 | U: 48.612 | V: 49.593 | Bpp: 0.0200
+QP=55 | Frame 16: Weighted PSNR: 43.669 dB | Y: 41.880 | U: 48.501 | V: 49.573 | Bpp: 0.0042
+QP=55 | Frame 17: Weighted PSNR: 44.120 dB | Y: 42.458 | U: 48.634 | V: 49.577 | Bpp: 0.0285
+QP=55 | Frame 18: Weighted PSNR: 43.737 dB | Y: 41.967 | U: 48.569 | V: 49.527 | Bpp: 0.0039
+QP=55 | Frame 19: Weighted PSNR: 44.054 dB | Y: 42.387 | U: 48.594 | V: 49.516 | Bpp: 0.0174
+QP=55 | Frame 20: Weighted PSNR: 43.699 dB | Y: 41.934 | U: 48.509 | V: 49.478 | Bpp: 0.0034
+QP=55 | Frame 21: Weighted PSNR: 44.030 dB | Y: 42.368 | U: 48.535 | V: 49.497 | Bpp: 0.0227
+QP=55 | Frame 22: Weighted PSNR: 43.722 dB | Y: 41.979 | U: 48.433 | V: 49.470 | Bpp: 0.0032
+QP=55 | Frame 23: Weighted PSNR: 43.940 dB | Y: 42.285 | U: 48.406 | V: 49.408 | Bpp: 0.0122
+QP=55 | Frame 24: Weighted PSNR: 43.632 dB | Y: 41.889 | U: 48.335 | V: 49.383 | Bpp: 0.0029
+QP=55 | Frame 25: Weighted PSNR: 43.905 dB | Y: 42.245 | U: 48.346 | V: 49.422 | Bpp: 0.0125
+QP=55 | Frame 26: Weighted PSNR: 43.599 dB | Y: 41.861 | U: 48.229 | V: 49.400 | Bpp: 0.0029
+QP=55 | Frame 27: Weighted PSNR: 43.752 dB | Y: 42.077 | U: 48.255 | V: 49.305 | Bpp: 0.0061
+QP=55 | Frame 28: Weighted PSNR: 43.454 dB | Y: 41.703 | U: 48.151 | V: 49.265 | Bpp: 0.0026
+QP=55 | Frame 29: Weighted PSNR: 43.529 dB | Y: 41.813 | U: 48.142 | V: 49.211 | Bpp: 0.0046
+QP=55 | Frame 30: Weighted PSNR: 43.397 dB | Y: 41.651 | U: 48.091 | V: 49.179 | Bpp: 0.0018
+QP=55 | Frame 31: Weighted PSNR: 43.377 dB | Y: 41.645 | U: 48.058 | V: 49.093 | Bpp: 0.0019
+QP=55 | [Johnny_1280x720_60.yuv] Weighted PSNR: 43.831 dB | Y-PSNR: 42.109 dB | U-PSNR: 48.518 dB | V-PSNR: 49.480 dB | MSE: 0.00020 | Bpp: 0.0147
+
+✓ QP=55 测试完成
+
+================================================================================
+测试 QP = 60
+================================================================================
+
+QP=60 | Frame 01: Weighted PSNR: 44.649 dB | Y: 43.028 | U: 49.090 | V: 49.934 | Bpp: 0.0945
+QP=60 | Frame 02: Weighted PSNR: 44.020 dB | Y: 42.216 | U: 48.960 | V: 49.900 | Bpp: 0.0071
+QP=60 | Frame 03: Weighted PSNR: 44.546 dB | Y: 42.909 | U: 49.021 | V: 49.893 | Bpp: 0.0411
+QP=60 | Frame 04: Weighted PSNR: 43.957 dB | Y: 42.129 | U: 49.001 | V: 49.878 | Bpp: 0.0085
+QP=60 | Frame 05: Weighted PSNR: 44.695 dB | Y: 43.099 | U: 49.002 | V: 49.957 | Bpp: 0.0552
+QP=60 | Frame 06: Weighted PSNR: 44.081 dB | Y: 42.291 | U: 49.024 | V: 49.879 | Bpp: 0.0066
+QP=60 | Frame 07: Weighted PSNR: 44.526 dB | Y: 42.894 | U: 48.967 | V: 49.873 | Bpp: 0.0354
+QP=60 | Frame 08: Weighted PSNR: 44.069 dB | Y: 42.287 | U: 48.984 | V: 49.842 | Bpp: 0.0082
+QP=60 | Frame 09: Weighted PSNR: 44.648 dB | Y: 43.044 | U: 48.990 | V: 49.934 | Bpp: 0.0535
+QP=60 | Frame 10: Weighted PSNR: 44.038 dB | Y: 42.252 | U: 48.934 | V: 49.860 | Bpp: 0.0076
+QP=60 | Frame 11: Weighted PSNR: 44.490 dB | Y: 42.856 | U: 48.924 | V: 49.863 | Bpp: 0.0321
+QP=60 | Frame 12: Weighted PSNR: 43.930 dB | Y: 42.131 | U: 48.904 | V: 49.751 | Bpp: 0.0089
+QP=60 | Frame 13: Weighted PSNR: 44.539 dB | Y: 42.916 | U: 48.955 | V: 49.862 | Bpp: 0.0475
+QP=60 | Frame 14: Weighted PSNR: 43.984 dB | Y: 42.196 | U: 48.858 | V: 49.835 | Bpp: 0.0071
+QP=60 | Frame 15: Weighted PSNR: 44.433 dB | Y: 42.785 | U: 48.910 | V: 49.842 | Bpp: 0.0309
+QP=60 | Frame 16: Weighted PSNR: 44.000 dB | Y: 42.222 | U: 48.818 | V: 49.846 | Bpp: 0.0069
+QP=60 | Frame 17: Weighted PSNR: 44.549 dB | Y: 42.933 | U: 48.932 | V: 49.859 | Bpp: 0.0436
+QP=60 | Frame 18: Weighted PSNR: 44.053 dB | Y: 42.290 | U: 48.861 | V: 49.820 | Bpp: 0.0064
+QP=60 | Frame 19: Weighted PSNR: 44.450 dB | Y: 42.816 | U: 48.880 | V: 49.825 | Bpp: 0.0265
+QP=60 | Frame 20: Weighted PSNR: 44.046 dB | Y: 42.296 | U: 48.817 | V: 49.774 | Bpp: 0.0060
+QP=60 | Frame 21: Weighted PSNR: 44.466 dB | Y: 42.847 | U: 48.841 | V: 49.809 | Bpp: 0.0369
+QP=60 | Frame 22: Weighted PSNR: 44.050 dB | Y: 42.308 | U: 48.765 | V: 49.793 | Bpp: 0.0057
+QP=60 | Frame 23: Weighted PSNR: 44.360 dB | Y: 42.737 | U: 48.743 | V: 49.714 | Bpp: 0.0200
+QP=60 | Frame 24: Weighted PSNR: 43.991 dB | Y: 42.264 | U: 48.655 | V: 49.690 | Bpp: 0.0049
+QP=60 | Frame 25: Weighted PSNR: 44.344 dB | Y: 42.725 | U: 48.666 | V: 49.738 | Bpp: 0.0217
+QP=60 | Frame 26: Weighted PSNR: 43.965 dB | Y: 42.242 | U: 48.548 | V: 49.726 | Bpp: 0.0048
+QP=60 | Frame 27: Weighted PSNR: 44.132 dB | Y: 42.479 | U: 48.557 | V: 49.621 | Bpp: 0.0097
+QP=60 | Frame 28: Weighted PSNR: 43.855 dB | Y: 42.135 | U: 48.447 | V: 49.579 | Bpp: 0.0039
+QP=60 | Frame 29: Weighted PSNR: 43.939 dB | Y: 42.255 | U: 48.461 | V: 49.524 | Bpp: 0.0069
+QP=60 | Frame 30: Weighted PSNR: 43.773 dB | Y: 42.051 | U: 48.381 | V: 49.496 | Bpp: 0.0026
+QP=60 | Frame 31: Weighted PSNR: 43.787 dB | Y: 42.086 | U: 48.363 | V: 49.419 | Bpp: 0.0026
+QP=60 | [Johnny_1280x720_60.yuv] Weighted PSNR: 44.205 dB | Y-PSNR: 42.507 dB | U-PSNR: 48.815 dB | V-PSNR: 49.785 dB | MSE: 0.00018 | Bpp: 0.0211
+
+✓ QP=60 测试完成
+
+================================================================================
+测试 QP = 65
+================================================================================
+
+QP=65 | Frame 01: Weighted PSNR: 44.674 dB | Y: 43.069 | U: 49.077 | V: 49.904 | Bpp: 0.0826
+QP=65 | Frame 02: Weighted PSNR: 44.199 dB | Y: 42.413 | U: 49.094 | V: 50.023 | Bpp: 0.0126
+QP=65 | Frame 03: Weighted PSNR: 44.679 dB | Y: 43.072 | U: 49.073 | V: 49.922 | Bpp: 0.0458
+QP=65 | Frame 04: Weighted PSNR: 44.138 dB | Y: 42.327 | U: 49.152 | V: 49.993 | Bpp: 0.0141
+QP=65 | Frame 05: Weighted PSNR: 44.688 dB | Y: 43.086 | U: 48.998 | V: 49.993 | Bpp: 0.0432
+QP=65 | Frame 06: Weighted PSNR: 44.221 dB | Y: 42.435 | U: 49.158 | V: 49.998 | Bpp: 0.0106
+QP=65 | Frame 07: Weighted PSNR: 44.662 dB | Y: 43.054 | U: 49.032 | V: 49.941 | Bpp: 0.0424
+QP=65 | Frame 08: Weighted PSNR: 44.214 dB | Y: 42.430 | U: 49.124 | V: 50.008 | Bpp: 0.0129
+QP=65 | Frame 09: Weighted PSNR: 44.648 dB | Y: 43.031 | U: 49.034 | V: 49.967 | Bpp: 0.0430
+QP=65 | Frame 10: Weighted PSNR: 44.171 dB | Y: 42.384 | U: 49.080 | V: 49.981 | Bpp: 0.0114
+QP=65 | Frame 11: Weighted PSNR: 44.643 dB | Y: 43.030 | U: 49.018 | V: 49.947 | Bpp: 0.0393
+QP=65 | Frame 12: Weighted PSNR: 44.086 dB | Y: 42.289 | U: 49.048 | V: 49.909 | Bpp: 0.0134
+QP=65 | Frame 13: Weighted PSNR: 44.553 dB | Y: 42.921 | U: 48.983 | V: 49.919 | Bpp: 0.0394
+QP=65 | Frame 14: Weighted PSNR: 44.115 dB | Y: 42.330 | U: 48.987 | V: 49.953 | Bpp: 0.0104
+QP=65 | Frame 15: Weighted PSNR: 44.565 dB | Y: 42.932 | U: 48.992 | V: 49.937 | Bpp: 0.0374
+QP=65 | Frame 16: Weighted PSNR: 44.146 dB | Y: 42.366 | U: 48.968 | V: 50.005 | Bpp: 0.0107
+QP=65 | Frame 17: Weighted PSNR: 44.592 dB | Y: 42.968 | U: 48.979 | V: 49.948 | Bpp: 0.0385
+QP=65 | Frame 18: Weighted PSNR: 44.189 dB | Y: 42.421 | U: 49.035 | V: 49.950 | Bpp: 0.0097
+QP=65 | Frame 19: Weighted PSNR: 44.615 dB | Y: 42.998 | U: 48.989 | V: 49.948 | Bpp: 0.0345
+QP=65 | Frame 20: Weighted PSNR: 44.207 dB | Y: 42.455 | U: 48.988 | V: 49.939 | Bpp: 0.0092
+QP=65 | Frame 21: Weighted PSNR: 44.524 dB | Y: 42.894 | U: 48.925 | V: 49.903 | Bpp: 0.0333
+QP=65 | Frame 22: Weighted PSNR: 44.171 dB | Y: 42.423 | U: 48.912 | V: 49.920 | Bpp: 0.0078
+QP=65 | Frame 23: Weighted PSNR: 44.539 dB | Y: 42.934 | U: 48.880 | V: 49.825 | Bpp: 0.0267
+QP=65 | Frame 24: Weighted PSNR: 44.166 dB | Y: 42.441 | U: 48.844 | V: 49.840 | Bpp: 0.0081
+QP=65 | Frame 25: Weighted PSNR: 44.470 dB | Y: 42.852 | U: 48.801 | V: 49.845 | Bpp: 0.0223
+QP=65 | Frame 26: Weighted PSNR: 44.123 dB | Y: 42.402 | U: 48.737 | V: 49.834 | Bpp: 0.0065
+QP=65 | Frame 27: Weighted PSNR: 44.358 dB | Y: 42.733 | U: 48.728 | V: 49.734 | Bpp: 0.0154
+QP=65 | Frame 28: Weighted PSNR: 44.058 dB | Y: 42.350 | U: 48.635 | V: 49.733 | Bpp: 0.0052
+QP=65 | Frame 29: Weighted PSNR: 44.168 dB | Y: 42.508 | U: 48.646 | V: 49.649 | Bpp: 0.0091
+QP=65 | Frame 30: Weighted PSNR: 44.011 dB | Y: 42.310 | U: 48.584 | V: 49.646 | Bpp: 0.0036
+QP=65 | Frame 31: Weighted PSNR: 44.084 dB | Y: 42.426 | U: 48.554 | V: 49.561 | Bpp: 0.0045
+QP=65 | [Johnny_1280x720_60.yuv] Weighted PSNR: 44.345 dB | Y-PSNR: 42.654 dB | U-PSNR: 48.937 dB | V-PSNR: 49.893 dB | MSE: 0.00017 | Bpp: 0.0227
+
+✓ QP=65 测试完成
+
+================================================================================
+测试 QP = 70
+================================================================================
+
+QP=70 | Frame 01: Weighted PSNR: 44.865 dB | Y: 43.281 | U: 49.201 | V: 50.035 | Bpp: 0.1015
+QP=70 | Frame 02: Weighted PSNR: 44.375 dB | Y: 42.597 | U: 49.247 | V: 50.166 | Bpp: 0.0198
+QP=70 | Frame 03: Weighted PSNR: 44.909 dB | Y: 43.333 | U: 49.225 | V: 50.054 | Bpp: 0.0614
+QP=70 | Frame 04: Weighted PSNR: 44.357 dB | Y: 42.560 | U: 49.333 | V: 50.161 | Bpp: 0.0224
+QP=70 | Frame 05: Weighted PSNR: 44.935 dB | Y: 43.359 | U: 49.177 | V: 50.155 | Bpp: 0.0576
+QP=70 | Frame 06: Weighted PSNR: 44.457 dB | Y: 42.686 | U: 49.351 | V: 50.188 | Bpp: 0.0177
+QP=70 | Frame 07: Weighted PSNR: 44.931 dB | Y: 43.354 | U: 49.217 | V: 50.105 | Bpp: 0.0562
+QP=70 | Frame 08: Weighted PSNR: 44.471 dB | Y: 42.708 | U: 49.335 | V: 50.187 | Bpp: 0.0212
+QP=70 | Frame 09: Weighted PSNR: 44.930 dB | Y: 43.352 | U: 49.198 | V: 50.131 | Bpp: 0.0586
+QP=70 | Frame 10: Weighted PSNR: 44.415 dB | Y: 42.644 | U: 49.269 | V: 50.186 | Bpp: 0.0178
+QP=70 | Frame 11: Weighted PSNR: 44.909 dB | Y: 43.327 | U: 49.194 | V: 50.114 | Bpp: 0.0532
+QP=70 | Frame 12: Weighted PSNR: 44.333 dB | Y: 42.550 | U: 49.265 | V: 50.100 | Bpp: 0.0212
+QP=70 | Frame 13: Weighted PSNR: 44.828 dB | Y: 43.226 | U: 49.173 | V: 50.095 | Bpp: 0.0549
+QP=70 | Frame 14: Weighted PSNR: 44.350 dB | Y: 42.575 | U: 49.191 | V: 50.158 | Bpp: 0.0175
+QP=70 | Frame 15: Weighted PSNR: 44.861 dB | Y: 43.265 | U: 49.174 | V: 50.130 | Bpp: 0.0526
+QP=70 | Frame 16: Weighted PSNR: 44.410 dB | Y: 42.642 | U: 49.211 | V: 50.219 | Bpp: 0.0184
+QP=70 | Frame 17: Weighted PSNR: 44.890 dB | Y: 43.292 | U: 49.210 | V: 50.162 | Bpp: 0.0539
+QP=70 | Frame 18: Weighted PSNR: 44.437 dB | Y: 42.678 | U: 49.230 | V: 50.193 | Bpp: 0.0168
+QP=70 | Frame 19: Weighted PSNR: 44.931 dB | Y: 43.347 | U: 49.191 | V: 50.175 | Bpp: 0.0498
+QP=70 | Frame 20: Weighted PSNR: 44.485 dB | Y: 42.744 | U: 49.237 | V: 50.180 | Bpp: 0.0163
+QP=70 | Frame 21: Weighted PSNR: 44.868 dB | Y: 43.274 | U: 49.155 | V: 50.142 | Bpp: 0.0500
+QP=70 | Frame 22: Weighted PSNR: 44.450 dB | Y: 42.706 | U: 49.176 | V: 50.184 | Bpp: 0.0143
+QP=70 | Frame 23: Weighted PSNR: 44.879 dB | Y: 43.309 | U: 49.109 | V: 50.070 | Bpp: 0.0410
+QP=70 | Frame 24: Weighted PSNR: 44.475 dB | Y: 42.766 | U: 49.108 | V: 50.099 | Bpp: 0.0144
+QP=70 | Frame 25: Weighted PSNR: 44.820 dB | Y: 43.241 | U: 49.044 | V: 50.076 | Bpp: 0.0359
+QP=70 | Frame 26: Weighted PSNR: 44.417 dB | Y: 42.707 | U: 49.011 | V: 50.082 | Bpp: 0.0118
+QP=70 | Frame 27: Weighted PSNR: 44.711 dB | Y: 43.117 | U: 48.975 | V: 50.016 | Bpp: 0.0250
+QP=70 | Frame 28: Weighted PSNR: 44.397 dB | Y: 42.716 | U: 48.890 | V: 49.988 | Bpp: 0.0090
+QP=70 | Frame 29: Weighted PSNR: 44.543 dB | Y: 42.921 | U: 48.889 | V: 49.933 | Bpp: 0.0151
+QP=70 | Frame 30: Weighted PSNR: 44.323 dB | Y: 42.643 | U: 48.827 | V: 49.898 | Bpp: 0.0053
+QP=70 | Frame 31: Weighted PSNR: 44.444 dB | Y: 42.817 | U: 48.805 | V: 49.841 | Bpp: 0.0067
+QP=70 | [Johnny_1280x720_60.yuv] Weighted PSNR: 44.626 dB | Y-PSNR: 42.959 dB | U-PSNR: 49.149 dB | V-PSNR: 50.104 dB | MSE: 0.00016 | Bpp: 0.0328
+
+✓ QP=70 测试完成
+
+================================================================================
+测试结果汇总
+================================================================================
+QP     Weighted PSNR      Y-PSNR       U-PSNR       V-PSNR       BPP       
+--------------------------------------------------------------------------------
+20     39.217             37.048       45.233       46.214       0.0018    
+25     40.114             38.041       45.845       46.818       0.0024    
+30     40.968             38.972       46.486       47.423       0.0030    
+35     41.674             39.757       46.941       47.904       0.0040    
+40     42.308             40.451       47.450       48.310       0.0054    
+45     42.851             41.051       47.815       48.691       0.0073    
+50     43.392             41.631       48.217       49.133       0.0104    
+55     43.831             42.109       48.518       49.480       0.0147    
+60     44.205             42.507       48.815       49.785       0.0211    
+65     44.345             42.654       48.937       49.893       0.0227    
+70     44.626             42.959       49.149       50.104       0.0328    
+================================================================================
+
+结果已保存到: ./results/Johnny_1280x720_60_results.json
+图表已保存到: ./results/Johnny_1280x720_60_rd_curves.png

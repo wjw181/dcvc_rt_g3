@@ -1,0 +1,23 @@
+# model/data/checkpoints
+checkpoints/
+pretrained/
+test_data/
+Wan2.2-main/checkpoints/
+
+# large binaries
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+*.tar
+*.yuv
+*.zip
+*.npy
+
+# python/cache
+__pycache__/
+*.pyc
+*.pyo
+
+# misc
+.DS_Store
